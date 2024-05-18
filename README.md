@@ -3,3 +3,5 @@ EN- A program that uses a decision tree to predict whether individuals will get 
 
 # TR- Bireylerin Kanser Olup Olmama durumlarını Tahmin Etme
 TR- Karar ağacı kullanarak Bireylerin Kanser Olma Veya Olmama Durumlarını Tahminleyip .Yaş , sigara kullanımı  , spor yapma durumu  , alkol tüketimi ve aile hastalık geçmişi gibi kriterlere göre kanser olma riski yüzdelerinin sütun grafiğini çizen program .
+
+<img src="1_UIOup_6QtddueH9VjaT8HQ.jpg" height="400">
